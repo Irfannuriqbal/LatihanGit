@@ -1,0 +1,5 @@
+git status  # Cek status
+git log     # Lihat riwayat
+# Buat file rencana_proyek.txt
+git add rencana_proyek.txt
+git commit -m "Menambahkan rencana proyek"
